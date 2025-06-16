@@ -21,17 +21,14 @@ Este projeto foi desenvolvido para a disciplina de Front-End, com o objetivo de 
 > Basta abrir o arquivo `index.html` em qualquer navegador moderno.
 
 ## 📂 Estrutura do projeto
-
-/finsmart-landing-page
-│
+finsmart-landing-page/
 ├── css/
-│ └── style.css #Estilos do projeto
-│
+│   └── style.css          # Estilos do projeto
 ├── img/
-│ └── (imagens do projeto)
-│
-├── index.html # Página principal
-└── README.md
+│   └── (imagens do projeto)
+├── index.html             # Página principal
+├── finsmart-repo.pdf      # PDF com o link do GitHub
+├── README.md
 
 ## 📝 Licença
 
